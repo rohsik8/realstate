@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Realstate</string>
+
+    <!--send sms code layout-->
+
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="germany">Germany</string>
+    <string name="germany_code">+49</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send_sms_code">Send SMS Code</string>
+    <string name="register_expert">Register as an Expert</string>
+    <string name="enter_your_problem">Enter your problem</string>
+    <string name="what_r_u_looking_for">What are you looking for?</string>
+    <string name="welcome">Welcome Martin!</string>
+    <string name="join">Join</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="proceed">Proceed</string>
+
+    <!--....................-->
+    <string name="enter_your_sms_code">Enter your SMS Code</string>
+    <string name="x">xxxxxx</string>
+    <string name="send_code_again"><b>Send Code Again</b></string>
+    <string name="did_not_receive_code">Didnt receive code?</string>
+    <string name="validate">Validate</string>    <!--....................-->
+
+    <!--ProfileActivity-->
+    <string name="my_profile">My Profile</string>
+    <string name="my_session_logs">My Session Logs</string>
+    <string name="logout">Logout</string>
+
+    <string name="profile_text">Your registered number is</string>
+    <string name="first_name"><b>FIRST NAME</b></string>
+    <string name="last_name"><b>LAST NAME</b></string>
+    <string name="submit">Submit</string>
+    <string name="enter_valid_number">Please enter a valid phone number.</string>
+    <string name="wrong_sms_code">Your SMS Code is Wrong.</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_my_session">MySession</string>
+    <string name="my_session_logs_string"><b>My Session Logs</b></string>
+    <string name="expert">EXPERT</string>
+    <string name="duration">DURATION</string>
+    <string name="request_for_session">Request for Session</string>
+    <string name="screenshots">SCREENSHOTS</string>
+    <string name="landing_page_dummy_dialog">Expert <b>"Walfgang Wagner"</b> has opened\n a remote session for you.\n Do you want to join it now?</string>
+    <string name="host">192.168.10.44</string>
+    <string name="port">3000</string>
+    <string name="stop_drawing">Stop Drawing</string>
+
+
+
+</resources>
